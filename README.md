@@ -16,7 +16,7 @@ Using the PHP code examples provided in this module, **build a single page PHP a
 - You can use CSS Grid and Flexbox if you want.
 - Push your code to GitHub once you have completed the assignment.
 
-Use the Final_upload.php as your final submission php file. You can add folders and files please use this template files as a starting point.
+Use the Final_upload.php as your final submission php file. Single page means only one page is viewed. You can have a functions PHP file that runs in the background. You can add folders and files please use this template files as a starting point.
 
 You can [view a video](https://www.youtube.com/watch?v=t2V_8czWuxM) demonstrating how the lab works. This is an example from Bruce. Please ignore the lab number in the video. This lab was originally part of a prior CTEC 127 class.
 
